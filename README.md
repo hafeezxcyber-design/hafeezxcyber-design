@@ -1,7 +1,3 @@
-# 💫 About Me:
-# Hi, I'm Haseeb Ahmad 👋<br><br>🎓 Bachelor's Student in Computer Science  <br>🔐 Passionate about Cybersecurity & Ethical Hacking  <br>🌐 Interested in Networking, Linux, and System Security  <br>🐍 Currently learning Python and automation  <br>💻 WordPress Developer & Digital Marketer  <br>📚 Always exploring new technologies and building practical projects  <br>🎯 Goal: Become a Cybersecurity Analyst and contribute to open-source projects<br><br>### 🛠️ Skills & Interests<br>- Cybersecurity<br>- Networking<br>- Python (Learning)<br>- Linux<br>- WordPress Development<br>- HTML, CSS & JavaScript<br>- Digital Marketing<br><br>### 🌱 Currently Learning<br>- Python Programming<br>- Network Security<br>- Ethical Hacking<br>- Linux Administration<br><br>### ⚡ Fun Fact<br>I enjoy breaking things in virtual labs to learn how to secure them in the real world. 😄<br><br>📫 Let's connect and learn together!
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/haseebxahmad/) 
 
